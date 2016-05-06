@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns     = "http://www.w3.org/ns/widgets"
+        xmlns:gap = "http://phonegap.com/ns/1.0"
+        id        = "com.phonegap.helloworld"
+        version   = "1.0.0">
+
+    <name>Вломтакті</name>
+
+    <icon src="res/icon/android/icon-48-mdpi.png"   gap:platform="android"    gap:qualifier="mdpi" />
+    <icon src="res/icon/android/icon-72-hdpi.png"   gap:platform="android"    gap:qualifier="hdpi" />
+    <icon src="res/icon/android/icon-96-xhdpi.png"  gap:platform="android"    gap:qualifier="xhdpi" />
+</widget>
